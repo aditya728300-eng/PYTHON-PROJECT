@@ -1,5 +1,8 @@
 # Restaurant Billing Program
 
+# ADITYA KUMAR
+# RU-26-02615
+
 ## Overview
 
 A menu-based command-line program for taking restaurant orders and calculating a bill. Add one or more menu items with their quantities, then enter `bill` to display the totals.
