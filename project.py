@@ -1,3 +1,6 @@
+# ADITYA KUMAR 
+# ERP ID : RU-26-02615
+
 menu = {"Dosa": 80, "Idli": 40, "Thali": 150, "Tea": 20}
 
 def calculate_bill(cart):
