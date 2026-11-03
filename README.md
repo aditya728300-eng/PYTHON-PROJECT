@@ -90,3 +90,11 @@ The `screenshots` folder contains one input/output screenshot for each test case
 - `README.md` — project documentation.
 - `screenshots/` — individual test-case screenshots.
 - `test-evidence.pdf` — PDF containing all six screenshots.
+
+
+## Project Mentor
+
+Mentored by [Mr. Satyaprakash Sethy](https://github.com/SATYAPRAKASHSETHY).
+
+**Role:** Python Mentor / Technical Guide  
+**GitHub:** [@SATYAPRAKASHSETHY](https://github.com/SATYAPRAKASHSETHY)
